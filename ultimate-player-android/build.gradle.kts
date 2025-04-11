@@ -30,7 +30,7 @@ android {
 
 dependencies {
 
-    implementation("com.google.android.exoplayer:exoplayer:2.18.3")
+    //implementation("com.google.android.exoplayer:exoplayer:2.18.3")
     implementation(libs.appcompat)
     implementation(libs.material)
     testImplementation(libs.junit)
